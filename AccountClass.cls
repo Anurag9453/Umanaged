@@ -11,4 +11,8 @@ public Account {
         public string Test2 = 'Singh';
      
         public string Test3 = 'Wipro';
+                public string Test1 ='Chanchal';
+        public string Test2 = 'Kkumar';
+     public string Test4 = 'Mathura';
+        public string Test3 = 'BWG';
 }
